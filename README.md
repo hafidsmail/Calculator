@@ -1,2 +1,3 @@
 # Calculator
-How to make a calculator using html, css, javascript.
+making a simple  calculator using html, css, javascript.
+
